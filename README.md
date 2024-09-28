@@ -1,0 +1,1 @@
+1. Run ``` npm i ``` to initialize the proyect
